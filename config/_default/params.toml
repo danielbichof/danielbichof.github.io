@@ -1,0 +1,40 @@
+tagline = "Hacking, CyberSec and tech stuffs"
+description = "A place to learn about hacking and technology"
+avatar = "/assets/img/avatar/arcade.gif"
+author = "danielbichof"
+enableTOC = true
+themeMode = "dark"
+
+[assets]
+  self_host = false
+
+[social]
+  name = "danielbichof"
+  url = "https://github.com/danielbichof"
+
+[[social.links]]
+  type = "github"
+  id = "danielbichof"
+  icon = "fab fa-github"
+
+[[social.links]]
+  type = "custom"
+  id = "https://instagram.com/danielbichof"
+  icon = "fab fa-instagram"
+
+[[social.links]]
+  type = "rss"
+  icon = "fas fa-rss"
+  noblank = true
+
+[comments]
+  enable = false
+  provider = ""
+
+[comments.utterances]
+  repo = "DanielBichof/danielbichof.github.io"
+  issue_term = "pathname"
+
+[analytics]
+  [analytics.google]
+    id = ""

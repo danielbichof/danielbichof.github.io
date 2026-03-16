@@ -1,0 +1,15 @@
+[highlight]
+  codeFences = true
+  guessSyntax = true
+  lineNos = true
+  noClasses = false
+
+[goldmark.parser]
+  wrapStandAloneImageWithinParagraph = false
+
+[goldmark.parser.attribute]
+  block = true
+  title = true
+
+[goldmark.renderer]
+  unsafe = true

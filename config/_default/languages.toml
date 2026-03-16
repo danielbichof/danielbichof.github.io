@@ -1,0 +1,7 @@
+[en]
+  languageName = "English"
+  languageCode = "en"
+  weight = 1
+  title = "Daniel's hack"
+  [en.params]
+    tagline = "Hacking, CyberSec and tech stuffs"

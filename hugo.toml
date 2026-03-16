@@ -1,0 +1,17 @@
+title = "Daniel's hack"
+baseURL = "https://danielbichof.github.io/"
+languageCode = "en"
+defaultContentLanguage = "en"
+defaultContentLanguageInSubdir = false
+enableGitInfo = false
+theme = "hugo-theme-chirpy"
+
+[pagination]
+  pagerSize = 10
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
